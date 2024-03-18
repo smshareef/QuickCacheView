@@ -20,7 +20,7 @@ QuickText simplifies the process of accessing web page text by providing easy ac
 
 ## Installation
 
-You can install QuickText from the Chrome Web Store, it's pending review.
+You can install QuickText from the Chrome Web Store from [HERE](https://chromewebstore.google.com/detail/quicktext/fljpaccfiejkfijdpicglijmgobojpdg "QuickText").
 
 Alternatively, you can install it as an unpacked extension:
 1. Clone this repository to your local machine.
