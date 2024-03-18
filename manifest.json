@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "QuickText",
+  "name": "QuickCacheView",
   "version": "1.0",
   "description": "Get the web page text quickly and easily from Google web cache.",
   "permissions": ["activeTab"],
